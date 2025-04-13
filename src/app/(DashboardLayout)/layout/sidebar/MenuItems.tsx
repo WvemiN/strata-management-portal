@@ -28,7 +28,7 @@ const Menuitems = [
   },
   {
     id: uniqueId(),
-    title: "Typography",
+    title: "Test AutoDeployement",
     icon: IconTypography,
     href: "/utilities/typography",
   },
